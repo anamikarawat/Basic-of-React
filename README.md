@@ -69,3 +69,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# What is React
+![Screenshot (2045)](https://user-images.githubusercontent.com/95397876/181100289-a1071dba-9d44-4396-bea2-62b6fab4ddc5.png)
+
+# Why we use React
+![Screenshot (2045)](https://user-images.githubusercontent.com/95397876/181100522-7fbed8b5-77c7-476b-b15e-0f42914a9a34.png)
+
+# Components
+![Screenshot (2049)](https://user-images.githubusercontent.com/95397876/181100722-9f9d4523-9d7f-48e1-af52-e3c4b8483ea2.png)
+![Screenshot (2049)](https://user-images.githubusercontent.com/95397876/181100829-8a81d167-4688-41f3-b650-bd0ab96073d7.png)
+
+ # Functional Components
+ ![Screenshot (2049)](https://user-images.githubusercontent.com/95397876/181100996-370f4753-d48a-49b8-b602-330b7024931b.png)
+
+# JSX differences
+![Screenshot (2071)](https://user-images.githubusercontent.com/95397876/181101082-c4aaa1e7-2951-46be-8521-ab50bd5caff3.png)
+
+![Screenshot (2071)](https://user-images.githubusercontent.com/95397876/181101268-6a81fb10-bfbd-4c9f-a20d-fd476d6c6b00.png)
+
+# HOOKS
+![Screenshot (2071)](https://user-images.githubusercontent.com/95397876/181101425-815695ff-d0bb-4d2d-87af-c2f89cb09a6b.png)
+
+![Screenshot (2071)](https://user-images.githubusercontent.com/95397876/181101608-e7b55c29-038a-44c0-a334-3f407da58564.png)
+
+
+
+
+
+
+
+
+
+
+
+
